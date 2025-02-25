@@ -9,4 +9,4 @@ BinaryDetectionResult_withLenProFixLen_Arm.zip is the reference results through 
 
 BinaryDetectionResult_withLenProFixLen_Mips.zip is the reference results through the weighted voiting scheme based on the detection results of ResultsFromFuncModel_Mips.zip.
 
-coreutils-9.1-arm* and coreutils-9.1-mips* are the gray images generated from RSII generator. We only uploaded a portion of the test images due to spatial constraints. 
+coreutils-9.1-arm*.zip and coreutils-9.1-mips*.zip are the gray images generated from RSII generator. We only uploaded a portion of the test images due to spatial constraints. 
